@@ -11,7 +11,7 @@ Licenciado em Matemática e Física, Bacharel em Sistemas de Informação, Pós-
 
 #### "O segredo de um grande sucesso está no trabalho de uma grande equipe." 🧠
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliezer-ladeira-12421112/)](https://www.linkedin.com/in/eliezer-ladeira-12421112/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliezer.ladeira@gmail.com)](mailto:eliezer.ladeira@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliezerladeira/)](https://www.linkedin.com/in/eliezerladeira/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliezer.ladeira@gmail.com)](mailto:eliezer.ladeira@gmail.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eliezerladeira)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerladeira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
