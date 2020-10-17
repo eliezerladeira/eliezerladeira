@@ -4,9 +4,9 @@ Meu nome é Eliezer. Sou professor de Matemática, desenvolvedor de software, an
 Licenciado em Matemática e Física, Bacharel em Sistemas de Informação, Pós-Graduado em Banco de Dados.
 
 - 👨🏻‍💻 Tenho conhecimento em:
-###  Linguagens: Visual Basic, C#, Delphi, PHP
-###  Plataformas CMS/plugins: Wordpress, Woocommerce, Lojas Virtuais, Landing Pages
-###	 Bancos de Dados: SQL Server, Firebird, Oracle, MySQL
+##  Linguagens: Visual Basic, C#, Delphi, PHP
+##  Plataformas CMS/plugins: Wordpress, Woocommerce, Lojas Virtuais, Landing Pages
+##  Bancos de Dados: SQL Server, Firebird, Oracle, MySQL
 - 💻 Atualmente estou estudando desenvolvimento WEB e desenvolvendo um ERP completo em C#.
 
 #### "O segredo de um grande sucesso está no trabalho de uma grande equipe." 🧠
@@ -24,9 +24,9 @@ My name is Eliezer. I'm a math teacher, software developer, systems analyst and 
 Degree in Mathematics and Physics, Bachelor in Information Systems, Postgraduate in Database.
 
 - 👨🏻‍💻 I have knowledge in:
-### Languages: Visual Basic, C#, Delphi, PHP
-### CMS platforms/plugins: Wordpress, Woocommerce, Virtual Stores, Landing Pages
-### Databases: SQL Server, Firebird, Oracle, MySQL
+## Languages: Visual Basic, C#, Delphi, PHP
+## CMS platforms/plugins: Wordpress, Woocommerce, Virtual Stores, Landing Pages
+## Databases: SQL Server, Firebird, Oracle, MySQL
 - 💻 I am currently studying WEB development and developing a complete ERP in C#.
 
 #### "The secret to great success lies in the work of a great team." 🧠
