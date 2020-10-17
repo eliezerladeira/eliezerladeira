@@ -1,12 +1,12 @@
-### Hi there 👋
+### Olá 👋
 
 Meu nome é Eliezer. Sou professor de Matemática, desenvolvedor de software, analista de sistemas e desenvolvedor web.
 Licenciado em Matemática e Física, Bacharel em Sistemas de Informação, Pós-Graduado em Banco de Dados.
 
 - 👨🏻‍💻 Tenho conhecimento em:
-     Linguagens: Visual Basic, C#, Delphi, PHP
-	 Plataformas CMS/plugins: Wordpress, Woocommerce, Lojas Virtuais, Landing Pages
-	 Bancos de Dados: SQL Server, Firebird, Oracle, MySQL
+###  Linguagens: Visual Basic, C#, Delphi, PHP
+###  Plataformas CMS/plugins: Wordpress, Woocommerce, Lojas Virtuais, Landing Pages
+###	 Bancos de Dados: SQL Server, Firebird, Oracle, MySQL
 - 💻 Atualmente estou estudando desenvolvimento WEB e desenvolvendo um ERP completo em C#.
 
 #### "O segredo de um grande sucesso está no trabalho de uma grande equipe." 🧠
@@ -16,6 +16,20 @@ Licenciado em Matemática e Física, Bacharel em Sistemas de Informação, Pós-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eliezerladeira)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerladeira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+###
+
+### Hi there 👋
+
+My name is Eliezer. I'm a math teacher, software developer, systems analyst and web developer.
+Degree in Mathematics and Physics, Bachelor in Information Systems, Postgraduate in Database.
+
+- 👨🏻‍💻 I have knowledge in:
+### Languages: Visual Basic, C#, Delphi, PHP
+### CMS platforms/plugins: Wordpress, Woocommerce, Virtual Stores, Landing Pages
+### Databases: SQL Server, Firebird, Oracle, MySQL
+- 💻 I am currently studying WEB development and developing a complete ERP in C#.
+
+#### "The secret to great success lies in the work of a great team." 🧠
 
 <!--
 **eliezerladeira/eliezerladeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
