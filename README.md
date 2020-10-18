@@ -1,35 +1,33 @@
-### Olá 👋
+<img src="https://user-images.githubusercontent.com/68889180/95789465-f429ee00-0cb3-11eb-8415-0ae6a8811bc1.png" alt="Cl-415 Plane 3D Modeled by me" width="350px" align="right"/>
 
-Meu nome é Eliezer. Sou professor de Matemática, desenvolvedor de software, analista de sistemas e desenvolvedor web.
-Licenciado em Matemática e Física, Bacharel em Sistemas de Informação, Pós-Graduado em Banco de Dados.
+### Hi there 👋
 
-- 👨🏻‍💻 Tenho conhecimento em:
-     Linguagens: Visual Basic, C#, Delphi, PHP; 
-     Plataformas CMS/plugins: Wordpress, Woocommerce, Lojas Virtuais, Landing Pages; 
-     Bancos de Dados: SQL Server, Firebird, Oracle, MySQL
-- 💻 Atualmente estou estudando desenvolvimento WEB e desenvolvendo um ERP completo em C#.
 
-#### "O segredo de um grande sucesso está no trabalho de uma grande equipe." 🧠
+# My name is Eliezer. :raised_hand:
+#### I Living in Brazil, Minas Gerais.
+---
+<p>:blue_book: Always study. Always learn. Always teach. :blue_book:</p>
+<br>
+<p>I'm software developer, systems analyst and web developer.
+<p>Degree in Mathematics and Physics, Bachelor in Information Systems, Postgraduate in Database.
+<p>
+- 👨🏻‍💻 I have knowledge in:<br>
+     Languages: Visual Basic, C#, Delphi, PHP; <br>
+     CMS platforms/plugins: Wordpress, Woocommerce, Virtual Stores, Landing Pages; <br>
+     Databases: SQL Server, Firebird, Oracle, MySQL <br>
+- 💻 I am currently studying WEB development and developing a complete ERP in C#.
+<p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliezerladeira/)](https://www.linkedin.com/in/eliezerladeira/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliezer.ladeira@gmail.com)](mailto:eliezer.ladeira@gmail.com)
+#### "The secret to great success lies in the work of a great team." 🧠
+
+ <p>:link: My Linked In: <a href="https://www.linkedin.com/in/eliezerladeira/"><img src="https://img.shields.io/badge/-LinkedIn-blue" alt="Linkedin Profile" /></a> </p>
+ <p>:page_facing_up: Check my Repositories: <a href="https://github.com/eliezerladeira?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-DarkGreen" alt="Git Repositories" /></a> </p>
+</p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eliezerladeira)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerladeira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-###
-
-### Hi there 👋
-
-My name is Eliezer. I'm a math teacher, software developer, systems analyst and web developer.
-Degree in Mathematics and Physics, Bachelor in Information Systems, Postgraduate in Database.
-
-- 👨🏻‍💻 I have knowledge in:
-     Languages: Visual Basic, C#, Delphi, PHP; 
-     CMS platforms/plugins: Wordpress, Woocommerce, Virtual Stores, Landing Pages; 
-     Databases: SQL Server, Firebird, Oracle, MySQL
-- 💻 I am currently studying WEB development and developing a complete ERP in C#.
-
-#### "The secret to great success lies in the work of a great team." 🧠
+---
 
 <!--
 **eliezerladeira/eliezerladeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
