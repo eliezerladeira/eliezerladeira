@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/68889180/95789465-f429ee00-0cb3-11eb-8415-0ae6a8811bc1.png" alt="Cl-415 Plane 3D Modeled by me" width="350px" align="right"/>
+<img src="https://user-images.githubusercontent.com/68889180/95789465-f429ee00-0cb3-11eb-8415-0ae6a8811bc1.png" alt="Cl-415 Plane 3D" width="300px" align="right"/>
 
 ### Hi there 👋
 
@@ -11,10 +11,10 @@
 <p>I'm software developer, systems analyst and web developer.
 <p>Degree in Mathematics and Physics, Bachelor in Information Systems, Postgraduate in Database.
 <p>
-- 👨🏻‍💻 I have knowledge in:<br>
-     Languages: Visual Basic, C#, Delphi, PHP; <br>
-     CMS platforms/plugins: Wordpress, Woocommerce, Virtual Stores, Landing Pages; <br>
-     Databases: SQL Server, Firebird, Oracle, MySQL <br>
+- 👨🏻‍💻 I have knowledge in:
+     :computer: Languages: Visual Basic, C#, Delphi, PHP; 
+     :convenience_store: CMS platforms/plugins: Wordpress, Woocommerce, Virtual Stores, Landing Pages; 
+     :books: Databases: SQL Server, Firebird, Oracle, MySQL <br>
 - 💻 I am currently studying WEB development and developing a complete ERP in C#.
 <p>
 
