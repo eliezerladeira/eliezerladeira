@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/68889180/95789465-f429ee00-0cb3-11eb-8415-0ae6a8811bc1.png" alt="Cl-415 Plane 3D" width="300px" align="right"/>
+<!-- <img src="https://user-images.githubusercontent.com/68889180/95789465-f429ee00-0cb3-11eb-8415-0ae6a8811bc1.png" alt="Cl-415 Plane 3D" width="300px" align="right"/> -->
 
 ### Hi there 👋
 
