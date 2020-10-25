@@ -4,7 +4,7 @@
 
 
 # My name is Eliezer. :raised_hand:
-#### I Living in Brazil, Minas Gerais.
+#### I living in Brazil, Minas Gerais.
 ---
 <p>:blue_book: Always study. Always learn. Always teach. :blue_book:</p>
 <br>
